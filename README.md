@@ -8,6 +8,8 @@ This repository is for showing how Git and GitHub work
 
 Dobry murzyn
 
+feature branch
+
 Another change
 
 Yet another change to remember about english classes

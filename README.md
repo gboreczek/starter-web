@@ -6,6 +6,8 @@ This repository is for showing how Git and GitHub work
 
 ## Deployment
 
+Dobry murzyn
+
 Another change
 
 Yet another change to remember about english classes
